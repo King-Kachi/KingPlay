@@ -10,7 +10,7 @@ header {
 }
 
 footer {
-    background: #eb3349;
+    background: #fb621c;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -43,9 +43,10 @@ footer a {
 }
 
 #head-div {
-    background: linear-gradient(to right, #eb3349 40%, #f45c43);
+    background: linear-gradient(to right, #e9b7a1 40%, #f45c43);
     width: 100%;
     text-align: center;
+    padding-top: 25px;
     height: 86px;
     margin: auto;
     font-family: "Roboto", sans-serif;
@@ -154,7 +155,7 @@ html {
     height: 100%;
     padding: 0px;
     margin: 0px;
-    background-color: #14151a;
+    background-color: #1a1614;
     background-image: none;
     display: block;
     height: fit-content;
@@ -344,7 +345,7 @@ div {
 }
 
 .fa-closed-captioning {
-    color: #ed3832;
+    color: #ed5732;
 }
 
 #server_main {
@@ -354,7 +355,7 @@ div {
 
 .server {
     padding: 0px;
-    background-color: #202125;
+    background-color: #252220;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -398,7 +399,7 @@ div {
 
 .sactive {
     color: #111;
-    background-color: #ed3832;
+    background-color: #ed5732;
 }
 
 .status {
@@ -414,7 +415,7 @@ div {
 }
 
 .scontent b {
-    color: #ed3832;
+    color: #ed5732;
     display: block;
     margin: 5px 0px;
 }
@@ -428,7 +429,7 @@ header {
 }
 
 footer {
-    background: #eb3349;
+    background: #ed5732;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -461,9 +462,10 @@ footer a {
 }
 
 #head-div {
-    background: linear-gradient(to right, #eb3349 40%, #f45c43);
+    background: linear-gradient(to right, #e9b7a1 40%, #f45c43);
     width: 100%;
     text-align: center;
+    padding-top: 25px;
     height: 86px;
     margin: auto;
     font-family: "Roboto", sans-serif;
@@ -570,7 +572,7 @@ html {
     width: 100%;
     padding: 0px;
     margin: 0px;
-    background-color: #14151a;
+    background-color: #1a1614;
     background-image: none;
     display: block;
     height: fit-content;
@@ -763,7 +765,7 @@ div {
 }
 
 .fa-closed-captioning {
-    color: #ed3832;
+    color: #ed5732;
 }
 
 #server_main {
@@ -772,7 +774,7 @@ div {
 
 .server {
     padding: 0px;
-    background-color: #202125;
+    background-color: #252220;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -816,7 +818,7 @@ div {
 
 .sactive {
     color: #111;
-    background-color: #ed3832;
+    background-color: #ed5732;
 }
 
 .status {
@@ -832,14 +834,14 @@ div {
 }
 
 .scontent b {
-    color: #ed3832;
+    color: #ed5732;
     display: block;
     margin: 5px 0px;
 }
 
 html,
 body {
-    background-color: #282828;
+    background-color: #1a1614;
 }
 
 header {
@@ -847,7 +849,7 @@ header {
 }
 
 footer {
-    background: #eb3349;
+    background: #ed5732;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -880,9 +882,10 @@ footer a {
 }
 
 #head-div {
-    background: linear-gradient(to right, #eb3349 40%, #f45c43);
+    background: linear-gradient(to right, #e9b7a1 40%, #f45c43);
     width: 100%;
     text-align: center;
+    padding-top: 25px;
     height: 86px;
     margin: auto;
     font-family: "Roboto", sans-serif;
@@ -989,7 +992,7 @@ html {
     width: 100%;
     padding: 0px;
     margin: 0px;
-    background-color: #14151a;
+    background-color: #1a1614;
     background-image: none;
     display: block;
     height: fit-content;
@@ -1182,7 +1185,7 @@ div {
 }
 
 .fa-closed-captioning {
-    color: #ed3832;
+    color: #ed5732;
 }
 
 #server_main {
@@ -1191,7 +1194,7 @@ div {
 
 .server {
     padding: 0px;
-    background-color: #202125;
+    background-color: #252220;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -1235,7 +1238,7 @@ div {
 
 .sactive {
     color: #111;
-    background-color: #ed3832;
+    background-color: #ed5732;
 }
 
 .status {
@@ -1251,7 +1254,7 @@ div {
 }
 
 .scontent b {
-    color: #ed3832;
+    color: #ed5732;
     display: block;
     margin: 5px 0px;
 }
@@ -1302,7 +1305,7 @@ div {
 
 h2 {
     font-family: "Montserrat", sans-serif;
-    color: #ed3832;
+    color: #ed5732;
     font-weight: 500;
     width: 100%;
     font-size: 20px;
@@ -1762,7 +1765,7 @@ h2 {
 }
 
 .fa-microphone {
-    color: #ed3832;
+    color: #ed5732;
 }
 
 #load img {
@@ -1776,14 +1779,14 @@ h2 {
     max-width: 600px;
     margin: 50px auto;
     padding: 20px;
-    border: 1px solid #f5c6cb;
+    border: 1px solid #f5d3c6;
     border-radius: 5px;
     background-color: #fff;
     font-family: "Roboto";
 }
 
 .container h6 {
-    color: #721c24;
+    color: #722d1c;
     font-size: x-large;
 }
 
@@ -1793,7 +1796,7 @@ h2 {
 }
 
 .container a {
-    color: #721c24;
+    color: #722d1c;
     text-decoration: underline;
 }
 
@@ -1888,11 +1891,11 @@ h2 {
 }
 
 .ep-slider-playing {
-    border-color: #ed3832;
+    border-color: #ed5732;
 }
 
 .ep-slider-playing .ep-title {
-    color: #ed3832;
+    color: #ed5732;
     background-color: rgba(255, 255, 255, 0.7);
 }
 
@@ -1944,7 +1947,7 @@ h2 {
 }
 
 .ep-divo-outer {
-    background-color: #27272c;
+    background-color: #252220;
     width: 90%;
     max-width: 770px;
     margin: 20px auto;
@@ -1969,30 +1972,13 @@ h2 {
 }
 
 .ep-btn:hover {
-    background-color: #eb001f;
+    background-color: #ff5100;
 }
 
 .ep-btn-playing {
-    background-color: #eb001f;
+    background-color: #ff5100;
 }
 
 * {
     transition: opacity 0.5s ease;
-}
-#title1 {
-    width: 70%;
-    height: 86px
-}
-
-#title1 a {
-    height: 86px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-@media screen and (max-width: 520px) {
-    #title1 img {
-        height: 55px;
-    }
 }
