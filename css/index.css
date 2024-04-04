@@ -13,7 +13,7 @@ header {
 }
 
 footer {
-    background: #eb3349;
+    background: #fb621c;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -46,9 +46,10 @@ footer a {
 }
 
 #head-div {
-    background: linear-gradient(to right, #eb3349 40%, #f45c43);
+    background: linear-gradient(to right, #e9b7a1 40%, #f45c43);
     width: 100%;
     text-align: center;
+    padding-top: 25px;
     height: 86px;
     margin: auto;
     font-family: "Roboto", sans-serif;
@@ -58,7 +59,7 @@ footer a {
 }
 
 h1 {
-    color: #eb3349;
+    color: #fb621c;
     font-family: "Poppins", sans-serif;
 }
 
@@ -83,7 +84,7 @@ html {
     width: 100%;
     padding: 0px;
     margin: 0px;
-    background-color: #14151a;
+    background-color: #1a1614;
     background-image: none;
     display: block;
     height: fit-content;
@@ -175,7 +176,7 @@ h1 {
 }
 
 .watch-btn {
-    background: #ed3832;
+    background: #ed5732;
     color: black;
     border-radius: 4px;
     font-weight: 400;
@@ -273,7 +274,7 @@ h1 {
 
 h2 {
     font-family: "Montserrat", sans-serif;
-    color: #ed3832;
+    color: #ed5732;
     font-weight: 500;
     width: 100%;
     font-size: 20px;
@@ -354,7 +355,7 @@ h2 {
 
 .dubb {
     color: white;
-    background-color: red;
+    background-color: #ff5100;
     position: absolute;
     bottom: 10px;
     left: 10px;
@@ -479,21 +480,8 @@ h2 {
 }
 
 #title1 {
+    height: fit-content;
     width: 70%;
-    height: 86px
-}
-
-#title1 a {
-    height: 86px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-@media screen and (max-width: 520px) {
-    #title1 img {
-        height: 55px;
-    }
 }
 
 .extra1 {
@@ -507,8 +495,6 @@ h2 {
 }
 
 @media only screen and (min-width: 580px) {
-
-
     #search-div input {
         width: calc(100% - 55px);
     }
@@ -518,6 +504,7 @@ h2 {
     }
 
     #title1 {
+        height: fit-content;
         width: 100%;
         text-align: center;
     }
@@ -571,6 +558,7 @@ h2 {
     }
 
     #title1 {
+        height: fit-content;
         width: calc(100% - 247px);
         text-align: center;
     }
@@ -588,6 +576,7 @@ h2 {
     }
 
     #title1 {
+        height: fit-content;
         width: calc(100% - 50px);
         text-align: center;
     }
@@ -696,7 +685,7 @@ h2 {
 }
 
 .spotlight {
-    color: #ed3832;
+    color: #ed5732;
     font-family: "Montserrat", sans-serif;
     font-size: 14px;
     margin-bottom: 20px;
@@ -732,7 +721,7 @@ h2 {
 }
 
 .cbox1 {
-    background-color: #ed3832;
+    background-color: #ed5732;
     color: black;
     font-family: "Montserrat", sans-serif;
     border: none;
@@ -1010,7 +999,4 @@ h2 {
 
 #sprite-plyr {
     display: none;
-}
-img{
-    transition: all 1s ease;
 }
